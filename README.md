@@ -54,6 +54,4 @@ int main() {
 
 * If the loop finishes without finding `X`, we print `"NO"` and exit.
 
-This version avoids storing the entire array and exits early once the element is found, making it both simpler and faster.
 
-Want a [version using arrays](f) or [vector-based solution](f)?
