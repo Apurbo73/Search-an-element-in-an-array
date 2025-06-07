@@ -55,3 +55,6 @@ int main() {
 * If the loop finishes without finding `X`, we print `"NO"` and exit.
 
 
+This simplified C++ program reads the size of the array N and the target value X. It then reads each element one by one in a loop, checking if it matches X. If a match is found, it prints "YES" and exits immediately, making the code efficient and avoiding unnecessary checks.
+
+If no match is found after checking all elements, the program prints "NO". This approach avoids using extra storage for the array and uses a simple while loop for compactness, making it ideal for quick element searches in input data.
