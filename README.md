@@ -1,6 +1,5 @@
 ### Search an element in an array
 
-Sure! Let’s break down the simplified code step by step:
 
 ```cpp
 #include <iostream>
