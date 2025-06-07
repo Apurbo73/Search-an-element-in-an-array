@@ -1,1 +1,1 @@
-﻿# Search an element in an array
+### Search an element in an array
